@@ -1,0 +1,68 @@
+# MiuiCamera
+system/priv-app/MiuiCamera/MiuiCamera.apk;DISABLE_DEPS;
+
+# MiuiExtraPhoto
+system/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk;DISABLE_DEPS;
+
+# Miui - libraries
+system/lib64/libarc_layer_sgl.so;DISABLE_DEPS;
+system/lib64/libarcsoft_wideselfie.so;DISABLE_DEPS;
+system/lib64/libcamera_algoup_jni.xiaomi.so;DISABLE_DEPS;
+system/lib64/libcamera_ambilight_ambt_qcom.so;DISABLE_DEPS;
+system/lib64/libcamera_ambilight_utils_qcom.so;DISABLE_DEPS;
+system/lib64/libcamera_arcsoft_beautyshot.so;DISABLE_DEPS;
+system/lib64/libcamera_arcsoft_handgesture.so;DISABLE_DEPS;
+system/lib64/libcamera_beauty_mpbase.so;DISABLE_DEPS;
+system/lib64/libCameraEffectJNI.so;DISABLE_DEPS;
+system/lib64/libcamera_handgesture_mpbase.so;DISABLE_DEPS;
+system/lib64/libcamera_jpegutil_jni.xiaomi.so;DISABLE_DEPS;
+system/lib64/libcamera_mialgo_ambilight_qcom.so;DISABLE_DEPS;
+system/lib64/libcamera_mianode_jni.xiaomi.so;DISABLE_DEPS;
+system/lib64/libcamera_wideselfie_mpbase.so;DISABLE_DEPS;
+system/lib64/libclone_c++_shared.so;DISABLE_DEPS;
+system/lib64/libCNamaSDK.so;DISABLE_DEPS;
+system/lib64/libcom.xiaomi.camera.requestutil.so;DISABLE_DEPS;
+system/lib64/libDollyZoom.so;DISABLE_DEPS;
+system/lib64/libdoc_photo.so;DISABLE_DEPS;
+system/lib64/libdoc_photo_c++_shared.so;DISABLE_DEPS;
+system/lib64/libDocumentProcess.so;DISABLE_DEPS;
+system/lib64/libfenshen_snpe.so;DISABLE_DEPS;
+system/lib64/libffmpeg.so;DISABLE_DEPS;
+system/lib64/libfuai.so;DISABLE_DEPS;
+system/lib64/libFUAuthHelper.so;DISABLE_DEPS;
+system/lib64/libFUP2AHelper.so;DISABLE_DEPS;
+system/lib64/libhandengine.arcsoft.so;DISABLE_DEPS;
+system/lib64/libinception_video.so;DISABLE_DEPS;
+system/lib64/libjni_arcsoft_beautyshot.so;DISABLE_DEPS;
+system/lib64/libjni_wideselfie.so;DISABLE_DEPS;
+system/lib64/libmimoji_bokeh_845_video.so;DISABLE_DEPS;
+system/lib64/libmimoji_soundsupport.so;DISABLE_DEPS;
+system/lib64/libmimoji_tracking.so;DISABLE_DEPS;
+system/lib64/libmimoji_video2gif.so;DISABLE_DEPS;
+system/lib64/libmiuinative.so;DISABLE_DEPS;
+system/lib64/libmorpho_memory_allocator.so;DISABLE_DEPS;
+system/lib64/libmorpho_panorama_gp3.so;DISABLE_DEPS;
+system/lib64/libmorpho_sensor_fusion.so;DISABLE_DEPS;
+system/lib64/libpta_server.so;DISABLE_DEPS;
+system/lib64/librecord_video.so;DISABLE_DEPS;
+system/lib64/libSNPE.so;DISABLE_DEPS;
+system/lib64/libsymphony-cpu.so;DISABLE_DEPS;
+system/lib64/libvideo_extra_color_converter.so;DISABLE_DEPS;
+system/lib64/libvideo_extra_interpolator.so;DISABLE_DEPS;
+system/lib64/libvvc++_shared.so;DISABLE_DEPS;
+system/lib64/libvvffmpeg.so;DISABLE_DEPS;
+system/lib64/libvvmediaeditor.so;DISABLE_DEPS;
+
+# config
+system/etc/default-permissions/miuicamera-permissions.xml;DISABLE_DEPS;
+system/etc/device_features/pyxis.xml;DISABLE_DEPS;
+system/etc/permissions/privapp-permissions-miui.xml;DISABLE_DEPS;
+system/etc/sysconfig/miuicamera-hiddenapi-package-whitelist.xml;DISABLE_DEPS;
+
+# Camera face detection
+vendor/lib/libmegface.so;DISABLE_DEPS;
+vendor/lib/libMegviiFacepp-0.5.2.so;DISABLE_DEPS;
+
+# addon
+system/addon.d/addond_head;DISABLE_DEPS;
+system/addon.d/addond_tail;DISABLE_DEPS;
